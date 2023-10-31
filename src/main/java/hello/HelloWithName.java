@@ -12,7 +12,14 @@ public class HelloWithName {
 
         String name = scanner.nextLine();
 
-        System.out.println("Hello " + name);
+        System.out.println("Happy Easter " + name);
+
+        System.out.println("What are you current views on politics right now?");
+
+        String politics = scanner.nextLine();
+
+        System.out.println("I don't like your anwer! Don't ever say: " + politics + " :again, " + name + ", you suck!");
+
 
     }
 

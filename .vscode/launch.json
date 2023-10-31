@@ -6,6 +6,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Receipt",
+      "request": "launch",
+      "mainClass": "main.java.hello.Receipt",
+      "projectName": "2024_CodingLessons"
+    },
+    {
+      "type": "java",
+      "name": "HelloWithName",
+      "request": "launch",
+      "mainClass": "main.java.hello.HelloWithName",
+      "projectName": "2024_CodingLessons"
+    },
+    {
+      "type": "java",
+      "name": "HelloWorld",
+      "request": "launch",
+      "mainClass": "main.java.hello.HelloWorld",
+      "projectName": "2024_CodingLessons"
+    },
+    {
+      "type": "java",
       "name": "Launch HelloWithName",
       "request": "launch",
       "mainClass": "main.java.hello.HelloWithName",
