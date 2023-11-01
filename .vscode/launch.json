@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TestCircle",
+      "request": "launch",
+      "mainClass": "main.java.hello.TestCircle",
+      "projectName": "2024_CodingLessons"
+    },
+    {
+      "type": "java",
+      "name": "Circle",
+      "request": "launch",
+      "mainClass": "main.java.hello.Circle",
+      "projectName": "2024_CodingLessons"
+    },
+    {
+      "type": "java",
       "name": "Receipt",
       "request": "launch",
       "mainClass": "main.java.hello.Receipt",
